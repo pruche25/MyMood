@@ -14,7 +14,7 @@ id	emotion
 13	Miss
 14	Sorry
 15	Sorrowful
-16	Disappointed
+16	Hurt
 17	Upset
 18	Sad
 19	Disappointed

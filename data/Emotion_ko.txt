@@ -13,7 +13,7 @@
 그립다	Miss
 미안하다	Sorry
 서럽다	Sorrowful
-서운하다	Disappointed
+서운하다	Hurt
 속상하다	Upset
 슬프다	Sad
 실망하다	Disappointed

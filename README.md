@@ -11,7 +11,7 @@ TypeScript(NestJS), MySql, LangChain 사용
   - 유저 가입, 로그인, 인증, 유저 정보 불러오기
   - 게임 추천
  
-* 스크린샷
+* 예시 스크린샷
   - 유저가 '서운하다'는 기분을 선택했을 때 받는 결과 <br>
     ![recommend](https://github.com/user-attachments/assets/91d2a6c6-52b9-42b2-89f1-3a309bda65b5)
 
